@@ -18,16 +18,16 @@ A python program is written to create a table to store and retrieve data.
 ### STEP 3:
 The table is created with 6 fields in which the username field is made as PrimaryKey.
 
-###step 4:
+### STEP 4:
 Then the project files migrated. A superuser is also created.
 
-###step 5:
+### STEP 5:
 Now the server side program is executed .
 
-###step 6:
+### STEP 6:
 The admin page of our website is accessed using username and password.
 
-###step 7:
+### STEP 7:
 Records are added and saved in the table inside the database.
 
 ## PROGRAM
